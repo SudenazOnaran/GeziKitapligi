@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Arka plan rengi (beyaz) -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Köşelerin yuvarlatılması -->
+    <corners android:radius="12dp" />
+
+    <!-- Kenarlık (çizgi) -->
+    <stroke
+        android:width="1dp"
+        android:color="#029EA8" />
+</shape>
